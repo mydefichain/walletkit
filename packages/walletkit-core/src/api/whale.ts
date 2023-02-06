@@ -25,7 +25,7 @@ export function newOceanOptions(
       };
     case EnvironmentNetwork.TestNet:
       return {
-        url: url ?? "https://testnet.ocean.jellyfishsdk.com",
+        url: url ?? "https://testnet-ocean.mydefichain.com:8443/",
         network: "testnet",
         version: "v0",
       };
@@ -38,7 +38,7 @@ export function newOceanOptions(
     case EnvironmentNetwork.MainNet:
     default:
       return {
-        url: url ?? "https://ocean.defichain.com",
+        url: url ?? "https://ocean.mydefichain.com",
         network: "mainnet",
         version: "v0",
       };
