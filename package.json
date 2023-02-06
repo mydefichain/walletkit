@@ -1,5 +1,5 @@
 {
-  "name": "@waveshq/walletkit",
+  "name": "@mydefichain/walletkit",
   "description": "Collection of components to be used for developing Wallet applications for DeFiChain.",
   "version": "0.0.0",
   "private": true,
