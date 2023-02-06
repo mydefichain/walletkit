@@ -1,6 +1,6 @@
 {
   "private": false,
-  "name": "@waveshq/walletkit-core",
+  "name": "@mydefichain/walletkit-core",
   "version": "0.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
